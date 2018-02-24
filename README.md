@@ -1,2 +1,2 @@
 # Flash-Card
-A flash card application to help learn new financial terms
+A web application to learn about different terms used in finance
